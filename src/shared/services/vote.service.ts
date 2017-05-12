@@ -24,7 +24,7 @@ export class VoteService {
 	});
 
 	ranking$ = Observable.combineLatest(
-		this.songService.songs$,
+		this.songService.songs$.map(songs => [...songs]),
 		this.af.database.object('votes'),
 		(songs: Song[], votes: any) => {
 			for (let i = 0; i < songs.length; i++) {
@@ -39,7 +39,13 @@ export class VoteService {
 				}
 			}
 
-			return songs.sort((a, b) => b.score - a.score);
+			return songs.sort((a, b) => {
+				if (b.score - a.score === 0) {
+					return a.order - b.order;
+				}
+
+				return b.score - a.score;
+			});
 		}
 	);
 
