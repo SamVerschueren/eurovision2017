@@ -1,7 +1,7 @@
 'use strict';
 importScripts('./build/sw-toolbox.js');
 
-const VERSION = 'v0.1.1';
+const VERSION = 'v0.1.2';
 
 self.toolbox.options.cache = {
 	name: 'eurovision2017-' + VERSION
