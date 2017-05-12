@@ -1,0 +1,16 @@
+<ion-header>
+	<ion-navbar color="primary">
+		<ion-title>
+			Line-up
+		</ion-title>
+	</ion-navbar>
+</ion-header>
+
+<ion-content>
+	<ion-spinner *ngIf="!(songs$ | async)"></ion-spinner>
+
+	<line-up-list
+		[lineup]="songs$ | async"
+		(select)="navigateToDetails($event)">
+	</line-up-list>
+</ion-content>

@@ -1,0 +1,15 @@
+line-up-item {
+	header {
+		height: 200px;
+		overflow: hidden;
+		position: relative;
+
+		country-flag {
+			width: 60px !important;
+			height: 60px !important;
+			position: absolute;
+			right: 5px;
+			bottom: 5px;
+		}
+	}
+}

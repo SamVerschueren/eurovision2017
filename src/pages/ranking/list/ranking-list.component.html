@@ -1,0 +1,12 @@
+<ion-list>
+	<ranking-item
+		*ngFor="let song of songs; index as i"
+		[ranking]="i + 1"
+		[flag]="song.country.code"
+		[title]="song.title"
+		[artist]="song.artist.nickname"
+		[country]="song.country.name"
+		[score]="song.score"
+		(select)="select.emit(song)">
+	</ranking-item>
+</ion-list>

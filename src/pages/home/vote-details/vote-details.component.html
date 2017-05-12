@@ -1,0 +1,20 @@
+<ion-spinner *ngIf="song === null" color="primary"></ion-spinner>
+
+<section class="empty" *ngIf="song === undefined">
+	<div>
+		<img src="../../../assets/img/logo.svg" alt="Eurovision 2017" />
+	</div>
+</section>
+
+<section class="main" *ngIf="song">
+	<section>
+		<div [background]="song.picture" (click)="details.emit()">
+			<country-flag [code]="song.country.code"></country-flag>
+		</div>
+	</section>
+
+	<score-card
+		[score]="score"
+		(vote)="vote.next($event)">
+	</score-card>
+</section>

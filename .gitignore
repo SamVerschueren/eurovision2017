@@ -1,0 +1,4 @@
+node_modules
+www
+.firebaserc
+src/app/app.config.ts

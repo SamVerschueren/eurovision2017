@@ -1,0 +1,24 @@
+ranking-item {
+	ion-avatar {
+		position: relative;
+
+		span {
+			position: absolute;
+			right: 5px;
+			bottom: 5px;
+			width: 14px;
+			height: 14px;
+			border-radius: 100%;
+			background-color: gold;
+			text-align: center;
+			line-height: 15px;
+			font-size: 10px;
+		}
+
+		country-flag {
+			border-radius: 36px;
+			height: 36px;
+			background-size: 44px 64px;
+		}
+	}
+}

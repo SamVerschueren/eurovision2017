@@ -1,0 +1,7 @@
+<ion-list>
+	<line-up-item
+		*ngFor="let song of lineup"
+		[song]="song"
+		(select)="select.emit(song)">
+	</line-up-item>
+</ion-list>

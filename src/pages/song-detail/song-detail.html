@@ -1,0 +1,17 @@
+<ion-header>
+	<ion-navbar color="primary">
+		<ion-title>
+			{{ song.country.name }}
+		</ion-title>
+	</ion-navbar>
+</ion-header>
+
+<ion-content>
+	<youtube-video [src]="song.video"></youtube-video>
+
+	<section padding>
+		<h1>{{ song.title }}</h1>
+
+		<div [innerHTML]="song.biography"></div>
+	</section>
+</ion-content>

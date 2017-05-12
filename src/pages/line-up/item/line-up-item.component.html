@@ -1,0 +1,15 @@
+<ion-card (click)="select.emit()">
+	<header [background]="song.picture">
+		<country-flag [code]="song.country.code"></country-flag>
+	</header>
+
+	<ion-card-content>
+		<ion-card-title>
+			{{ song.order }}. {{ song.country.name }}
+		</ion-card-title>
+
+		<p>
+			{{ song.artist.nickname }} - {{ song.title }}
+		</p>
+	</ion-card-content>
+</ion-card>

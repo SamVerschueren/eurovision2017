@@ -1,0 +1,20 @@
+<ion-header>
+	<ion-navbar color="primary">
+		<ion-title>{{ title$ | async }}</ion-title>
+
+		<ion-buttons end *ngIf="isAdmin$ | async">
+			<button ion-button (click)="nextSong()">
+				<ion-icon name="md-checkmark"></ion-icon>
+			</button>
+		</ion-buttons>
+	</ion-navbar>
+</ion-header>
+
+<ion-content>
+	<vote-details
+		[song]="playing$ | async"
+		[score]="score$ | async"
+		(details)="showDetails()"
+		(vote)="vote($event)">
+	</vote-details>
+</ion-content>

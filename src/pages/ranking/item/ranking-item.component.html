@@ -1,0 +1,11 @@
+<button ion-item (click)="select.emit()">
+	<ion-avatar item-left>
+		<span>{{ ranking }}</span>
+		<country-flag [code]="flag"></country-flag>
+	</ion-avatar>
+
+	<ion-badge item-right>{{ score | number:'1.0-2' }}</ion-badge>
+
+	<h2>{{ country }}</h2>
+	<p>{{ title }}</p>
+</button>

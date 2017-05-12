@@ -1,0 +1,7 @@
+<ul>
+	<li *ngFor="let nr of scores">
+		<button ion-button round text-only [outline]="score === nr" (click)="vote.next(nr)">
+			{{ nr }}
+		</button>
+	</li>
+</ul>

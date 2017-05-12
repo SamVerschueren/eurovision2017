@@ -1,0 +1,424 @@
+{
+	"playing": 0,
+	"roles": {
+		"<FACEBOOK ID>": "admin"
+	},
+	"songs": [
+		{
+			"order": 1,
+			"title": "I Feel Alive",
+			"picture": "https://eurovision.tv/apex/image/516eda9b7dfd55dd320ec64258221804?p=participant",
+			"video": "https://www.youtube.com/embed/eW2n2VmNLkw",
+			"artist": {
+				"firstName": "Imri",
+				"name": "Ziv",
+				"nickname": "IMRI"
+			},
+			"biography": "<p>IMRI, 25, born and raised near Tel Aviv, won this year's Rising Star singing competition TV show, and the ticket to represent Israel in the 2017 Eurovision Song Contest. The young singer is already a veteran of the Eurovision stage, as a two-time backing vocalist, for both the \"golden boy\", Nadav Guedj, in 2015 in Vienna, and the man \"made of stars\", Hovi Star, in Stockholm in 2016.</p><p>Since a young age, IMRI has been singing professionally in many languages, including Spanish, English and Hebrew, and performed in dozens of concerts all around the world. In addition to singing, he also enjoys playing guitar and the piano, has studied acting and played in various Hebrew voice over roles in animated series. IMRI is currently a second-year Visual Communications bachelor's degree student.</p>",
+			"country": {
+				"code": "IL",
+				"name": "Israel"
+			}
+		},
+		{
+			"order": 2,
+			"title": "Flashlight",
+			"picture": "https://eurovision.tv/apex/image/11b438db18426b38700d4dfa04feed99?p=participant",
+			"video": "https://www.youtube.com/embed/bmXlLBAu6IY",
+			"artist": {
+				"firstName": "Kasia",
+				"name": "Moś",
+				"nickname": "Kasia Moś"
+			},
+			"biography": "<p>Kasia was born in 1987 into an artistic family. She is the daughter of Marek Moś, a conductor, violinist, chamber musician and director of the chamber orchestra AUKSO. Joanna, Kasia's mother, is also a musician and plays the violin. Kasia's brother, Mateusz, is a violinist and composer and produced her debut album.</p><p>Kasia learned to play the cello and piano at school. In 2009 she graduated from university where she studied music. The singer has collaborated with fellow artists in Poland including Paweł Mykietyn where she performed on his album, Pasja św. Marka, as well as performing in one of the major parts in his musical Król Lear in Krakow.</p><p>More recently Kasia was part of The Pussycat Dolls Burlesque Review show and was a finalist in the third edition of the programme Must Be The Music. Kasia has also performed at several festivals including Spring Break, Carpathie Festival, Top Trendy and Woodstock to name just a few.</p><p>Kasia released her debut album, Inspination, in 2015. The album can be described as a mix of electronic and soul with elements of pop music. She has participated in the Polish selection for the Eurovision Song Contest three times, in 2006 with the song I Wanna Know, in 2016 with Addiction and finally in 2017 with Flashlight. Kasia is currently working on her new album.</p>",
+			"country": {
+				"code": "PL",
+				"name": "Poland"
+			}
+		},
+		{
+			"order": 3,
+			"title": "Story of My Life",
+			"picture": "https://eurovision.tv/apex/image/78f076e2ab98bc3798328e00da5b6bb8?p=participant",
+			"video": "https://www.youtube.com/embed/ElqbLPcTHAI",
+			"artist": {
+				"firstName": "Artem & Ksenia",
+				"name": "Lukyanenko - Zhuk",
+				"nickname": "Naviband"
+			},
+			"biography": "<p>Artem Lukyanenko and Ksenia Zhuk make up Naviband. Artem, 24, is a journalist and professional guitar and piano player. Ksenia is 25 and a vocalist. Naviband have been performing since 2013 and in 2014 they received their first award for the single Abdymi Mine at the National Music Awards in Belarus. The song was nominated for Best Song of the Year in Belarusian.</p><p>Naviband have recorded three studio albums and toured extensively in Central and Eastern Europe. In 2016, they presented the official anthem of the Belarusian national football team, Naperad Belakrylyja. Naviband won the right to represent Belarus in the 2017 Eurovision Song Contest after winning the national selection earlier this year. Their entry, Story of My Life, will be the first entry for Belarus that will be performed in Belarusian.</p>",
+			"country": {
+				"code": "BY",
+				"name": "Belarus"
+			}
+		},
+		{
+			"order": 4,
+			"title": "Running On Air",
+			"picture": "https://eurovision.tv/apex/image/37d41ac87ba88ea862b1f3600c94b887?p=participant",
+			"video": "https://www.youtube.com/embed/SpPM1V3dqZE",
+			"artist": {
+				"firstName": "Nathan",
+				"name": "Trent",
+				"nickname": "Nathan Trent"
+			},
+			"biography": "<p>Artem Lukyanenko and Ksenia Zhuk make up Naviband. Artem, 24, is a journalist and professional guitar and piano player. Ksenia is 25 and a vocalist. Naviband have been performing since 2013 and in 2014 they received their first award for the single Abdymi Mine at the National Music Awards in Belarus. The song was nominated for Best Song of the Year in Belarusian.</p><p>Naviband have recorded three studio albums and toured extensively in Central and Eastern Europe. In 2016, they presented the official anthem of the Belarusian national football team, Naperad Belakrylyja. Naviband won the right to represent Belarus in the 2017 Eurovision Song Contest after winning the national selection earlier this year. Their entry, Story of My Life, will be the first entry for Belarus that will be performed in Belarusian.</p>",
+			"country": {
+				"code": "AT",
+				"name": "Austria"
+			}
+		},
+		{
+			"order": 5,
+			"title": "Fly With Me",
+			"picture": "https://eurovision.tv/apex/image/d885b213b34953e5a3616ce75685da63?p=participant",
+			"video": "https://www.youtube.com/embed/Yw6LdDo7HxA",
+			"artist": {
+				"firstName": "Artsvik",
+				"name": "Harutyunyan",
+				"nickname": "Artsvik"
+			},
+			"biography": "<p>Artsvik was born on 21st October 1984 in Armenia. When she was 5 years old she and her family moved to Moscow, Russia. After graduating from school, Artsvik decided to continue her studies as a speech therapist psychologist at Moscow State Pedagogical University. However music was always a big part of her identity. Since her early childhood Artsvik was singing, creating melodies and exciting everyone around her.</p><p>In 1992 Artsvik met Whitney Houston when she first watched The Bodyguard. This is when she knew that music will always be her one true passion in life. Still, it took her some time to take the risk to leave everything and follow her dreams. On a new year’s eve she made a wish and that was when her musical journey began.</p><p>In 2012 Artsvik became a member of the Jazz Parking Project. During the same year she auditioned for The Voice of Russia, becoming a nationwide sensation. She began to develop a fanbase and so Artsvik began to record covers of hit songs as well as originals; Why, No Fear, I Say Yes and Сестры по духу. Over the years she has also participated in numerous international music festivals all over her world, growing both as a person and a professional on her way to Europe’s biggest stage.</p><p>In 2016 Artsvik decided to move back to Armenia. It was always her dream to represent her country at the biggest music event in Europe, so she decided to audition for national broadcaster AMPTV’s new show, Depi Evratesil, the Armenian national selection for the Eurovision Song Contest. After each performance Artsvik continued to receive the highest points from both juries and viewers, thus becoming the winner of the competition and getting a chance to represent Armenia at the Eurovision Song Contest.</p>",
+			"country": {
+				"code": "AM",
+				"name": "Armenia"
+			}
+		},
+		{
+			"order": 6,
+			"title": "Lights and Shadows",
+			"picture": "https://eurovision.tv/apex/image/6aa3b99ae2fe56317bc7c5f1001e3c3a?p=participant",
+			"video": "https://www.youtube.com/embed/TxYU6iVpI5c",
+			"artist": {
+				"firstName": "",
+				"name": "",
+				"nickname": "OG3NE"
+			},
+			"biography": "</p>The Dutch vocal group OG3NE is made up of three sisters: Lisa (22) and twins Amy and Shelley (21). The name OG3NE represents their mother's blood type O and the genes that tie the three sisters together. In 2014 they were the world's first ever group to win The Voice and their great breakthrough in the Netherlands followed in 2016.</p><p>The very personal and harmonious Lights and Shadows is a musical tribute to their mother, written by their father Rick, to inspire those whose families are disrupted by illness. Their mother has been seriously ill for several years. The impact on their close, musical family is huge. They support each other and take care of each other, but still there is also a lot of grief.</p><p>OG3NE's success creates valuable moments of happiness. \"We will do everything in our power to make our country proud. We want to see a proud smile on our mother's face too. This is our way to say thank you for everything she has given us and for what she means to us\".</p>",
+			"country": {
+				"code": "NL",
+				"name": "The Netherlands"
+			}
+		},
+		{
+			"order": 7,
+			"title": "Hey Mamma",
+			"picture": "https://eurovision.tv/apex/image/b6c3c60c3ee50ed9aac4be12569a4113?p=participant",
+			"video": "https://www.youtube.com/embed/mvaLAs9cex4",
+			"artist": {
+				"firstName": "",
+				"name": "",
+				"nickname": "Sunstroke Project"
+			},
+			"biography": "<p>Sunstroke Project incorporate violin, saxophone and dance music. In 2010 the group represented Moldova in the Eurovision Song Contest, alongside Olia Tira. It was after the 2010 contest that saxophonist Sergey Stepanov became a YouTube sensation known all over the world as the Epic Sax Guy. The video of him performing at the contest went viral and has been watched millions of times.</p><p>In July 2012, Sunstroke Project and Boris Coval were awarded thirteen gold and four silver medals in the international contest World Star in Hollywood. In August 2015, the group started their own music label, Ragoza Music, and released the song Not Giving It Up. More recently, Sunstroke Project finished recording their second album and released their first song in Russian; Maria Huana. Sunstroke Project are also successfully touring internationally and still occupy leading positions in the best radio station charts.<p>",
+			"country": {
+				"code": "MD",
+				"name": "Moldova"
+			}
+		},
+		{
+			"order": 8,
+			"title": "Origo",
+			"picture": "https://eurovision.tv/apex/image/0de6063c0a0bace196300d561dc191fa?p=participant",
+			"video": "https://www.youtube.com/embed/LflrKXL022U",
+			"artist": {
+				"firstName": "Joci",
+				"name": "Pápai",
+				"nickname": "Joci Pápai"
+			},
+			"biography": "<p>Music definitely runs in the family of Joci Papai as his father was the leader of a big gypsy orchestra. No wonder that at the age of four Joci chose the same path when he first picked up a guitar, an instrument he did not let go of ever since. Joci Papai could have become a professional sportsman as he was playing basketball from an early age, but eventually he decided to pursue his dreams as a musician. His road to fame, however, was not an easy one: coming from a poor family he struggled to get recognised in various talent shows.</p><p>Joci's breakthrough came in 2005 and after he released his first album and was featured in numerous top-charting singles as well. Recently Joci Papai reshaped his musical style, creating an exciting and unique blend of authentic gypsy music and modern pop. This can be heard in his entry for the 62nd Eurovision Song Contest entitled Origo.</p>",
+			"country": {
+				"code": "HU",
+				"name": "Hungary"
+			}
+		},
+		{
+			"order": 9,
+			"title": "Occidentali's Karma",
+			"picture": "https://eurovision.tv/apex/image/2f51b05809a6f44d72eb2e4b71bdb670?p=participant",
+			"video": "https://www.youtube.com/embed/Mj6tVGKzfhU",
+			"artist": {
+				"firstName": "Francesco",
+				"name": "Gabbani",
+				"nickname": "Francesco Gabbani"
+			},
+			"biography": "<p>Hailing from Carrara in Tuscany, where his parents ran the town’s only instrument shop, Francesco Gabbani grew up on music. In 2010 he left his first band Trikobalto to pursue a solo career. Francesco shockingly decided to quit performing to concentrate on composing when, in 2015, his publisher BMG persuaded him to enter a song for the Newcomers section of Sanremo Festival. His song Amen won and subsequently went Platinum in Italy.</p><p>In 2017, Francesco won the main section of Sanremo with Occidentali’s Karma, becoming the first artist ever to win in different categories of the Festival in consecutive years. Within hours, the success of the viral, Italian-sung smash had started to snowball. Occidentali’s Karma went Gold within a week and double Platinum in a month, spreading to the online charts all around the world while its colourful, ape-featuring video clocked over 50 million YouTube views. Francesco’s third album is due to be released on the eve of the Eurovision Song Contest.</p>",
+			"country": {
+				"code": "IT",
+				"name": "Italy"
+			}
+		},
+		{
+			"order": 10,
+			"title": "Where I Am",
+			"picture": "https://eurovision.tv/apex/image/092e1d25b4f209ceb5b299e20be90141?p=participant",
+			"video": "https://www.youtube.com/embed/716rTFMgZQ4",
+			"artist": {
+				"firstName": "Anja",
+				"name": "Nissen",
+				"nickname": "Anja"
+			},
+			"biography": "<p>Anja finished second in Melodi Grand Prix last year but came back to make her childhood dream come true by representing Denmark in Eurovision Song Contest. She is 21 years old and was born and raised in Australia, but both her parents are Danish and most of her relatives lives in Denmark. In 2014 she won the third season of The Voice Australia. Her song this year is called Where I Am.</p>",
+			"country": {
+				"code": "DK",
+				"name": "Denmark"
+			}
+		},
+		{
+			"order": 11,
+			"title": "Amar Pelos Dois",
+			"picture": "https://eurovision.tv/apex/image/82fde8a14b6472917b27bdc4205a95d8?p=participant",
+			"video": "https://www.youtube.com/embed/ymFVfzu-2mw",
+			"artist": {
+				"firstName": "Salvador",
+				"name": "Sobral",
+				"nickname": "Salvador Sobral"
+			},
+			"biography": "<p>Salvador Sobral studied Psychology, but his overwhelming passion for music took over and he has proved to be one of the great promises in the Portuguese and Spanish music scene. While he lived in the United States and in Barcelona, where he studied at the prestigious school Taller de Musics, he carried out several musical projects: he composed for himself but at the same time he created audacious performances inspired by Chet Baker, took in bossa-nova and lent his songs the sweet sonorities of Latin America.</p><p>His voice, always in the right place and over which he has full, flawless control, and the magnetism with which he wins people over when he’s on stage, have awarded him the best reviews from the specialised press, colleagues and, most importantly, from the ultimate judge; the public. Excuse Me (2016), his debut album, was a musical co-production of Júlio Resende, Leonardo Aldrey and Salvador himself.</p>",
+			"country": {
+				"code": "PT",
+				"name": "Portugal"
+			}
+		},
+		{
+			"order": 12,
+			"title": "Skeletons",
+			"picture": "https://eurovision.tv/apex/image/19a0e5db2ea0a9a53e3ff1eead87657f?p=participant",
+			"video": "https://www.youtube.com/embed/z_UNpD0AvFc",
+			"artist": {
+				"firstName": "Diana",
+				"name": "Haciyeva",
+				"nickname": "Dihaj"
+			},
+			"biography": "<p>Dihaj graduated from the Baku Music Academy in 2010 and moved on to The Institute of Contemporary Music Performance in London. While in the UK, Diana got involved with the local underground music scene by singing in a progressive trance trio Looper & Mancus. Around that time, she decided to start her own band: Dihaj, an electronic music collective from Baku. The band’s breakthrough single was I Break Again. Diana co-wrote it with Azerbaijani jazz pianist Isfar Sarabsky. Music critics have called the band \"experimental doom pop\", praising the post-rock guitar riffs, semi-acoustic drum set and atmospheric vocals. As the lead singer of Dihaj, Diana has performed at numerous music festivals including Women in Paradise in Amsterdam and Kulturos Naktis in Vilnius. In 2015, Dihaj won the Caucasian Music Awards Phoenix as The Debut of the Year. </p>",
+			"country": {
+				"code": "AZ",
+				"name": "Azerbaijan"
+			}
+		},
+		{
+			"order": 13,
+			"title": "My Friend",
+			"picture": "https://eurovision.tv/apex/image/6914bd5270d95b9cd9aca381ada8c294?p=participant",
+			"video": "https://www.youtube.com/embed/Q06z-EaBvjE",
+			"artist": {
+				"firstName": "Jacques",
+				"name": "Houdek",
+				"nickname": "Jacques Houdek"
+			},
+			"biography": "<p>Jacques Houdek was born in Zagreb, Croatia in 1981. He is the leading singer of the younger generation of Croatian vocalists and began his career in 2000. For the last 16 years, his original performances of different musical genres have been captivating audiences of all ages. His hits include songs such as Stotinama Godina, Zauvijek Tvoj and Srećom Imam Tebe.</p><p>Jacques' rich discography boasts 13 albums which have been certified silver (5 times), gold, platinum and diamond. He is also a mentor on The Voice of Croatia and has performed thousands of concerts over the years.</p><p>His flawless singing, bold performances and originality have separated Jacques from the usual pop stereotypes and raised the bar for other performers. He's especially loved for his humanitarian work by persons with disabilities and children.</p>",
+			"country": {
+				"code": "HR",
+				"name": "Croatia"
+			}
+		},
+		{
+			"order": 14,
+			"title": "Don't Come Easy",
+			"picture": "https://eurovision.tv/apex/image/229b701029e18f617cf8b05c01ca571c?p=participant",
+			"video": "https://www.youtube.com/embed/RiXEMYUqa3w",
+			"artist": {
+				"firstName": "Isaiah",
+				"name": "Firebrace",
+				"nickname": "Isaiah"
+			},
+			"biography": "<p>With a population of only 5,000 people, Moama, just outside of Melbourne Australia, is hardly the kind of place you'd expect to find a superstar. Wel, no one told Isaiah that. In just two years, the talented teen has transformed from a small town singer with big dreams, to one of Australia’s most promising artists. Along the way he’s won The X Factor Australia and released a debut single, It’s Gotta Be You, that charted all over the world and notched up millions of international streams. All that at just 17 years of age.</p><p>\"I get really emotional when I sing and I think that comes through no matter what language you speak,\" Isaiah says of his international success, having cracked the Spotify charts in Scandinavia, Asia and beyond including a Platinum single in Sweden. Having successfully completed his own headline tour in Australia earlier this year, Isaiah hits the road with Jessica Mauboy. Although Isaiah’s success may have begun in a small town, the world is listening!</p>",
+			"country": {
+				"code": "AU",
+				"name": "Australia"
+			}
+		},
+		{
+			"order": 15,
+			"title": "This Is Love",
+			"picture": "https://eurovision.tv/apex/image/1e38f1e4542823f5041f448be7825983?p=participant",
+			"video": "https://www.youtube.com/embed/R_kLtgFPnbk",
+			"artist": {
+				"firstName": "Dimitra",
+				"name": "Papadea",
+				"nickname": "Demy"
+			},
+			"biography": "<p>Demy’s love with music started at a very early age, with piano lessons at the young age of five, before she even went to school. Meanwhile, she enrolled for the school choir and also attended music theory and harmony lessons. To this day she continues to take vocal coaching as well as piano lessons.</p><p>Demy's musical influences come from many different kinds of music, of which she distinguishes jazz, soul, rock n’ roll and r’n’b as the most influential. She aims to experiment with every one of her songs and she avoids categorising herself in one particular kind of music.</p><p>After her official launch in the music world in 2011, Demy has enjoyed a series of successful collaborations with well-known Greek artists, and has released several singles that gained both national and international acclaim. During the past two years she has started a stage career resulting in leading roles in big scale musical productions.</p><p>In her free time, Demy is a diligent law student.</p>",
+			"country": {
+				"code": "GR",
+				"name": "Greece"
+			}
+		},
+		{
+			"order": 16,
+			"title": "Do It For Your Lover",
+			"picture": "https://eurovision.tv/apex/image/d3305b55ceefa2ae8daddda6748f8f37?p=participant",
+			"video": "https://www.youtube.com/embed/9jO32_trJq4",
+			"artist": {
+				"firstName": "Manel",
+				"name": "Navarro",
+				"nickname": "Manel Navarro"
+			},
+			"biography": "<p>Manel Navarro, 21, is a young composer and singer whose music is a mixture of influences from Bob Dylan to Ed Sheeran. Manel, always carrying his guitar, breaks the mould of pop music, with the rhythm of his brilliant songs. The singer and composer performs in the style of the tradition of James Bay or Passenger.</p><p>Aside from original material Manel's covers have also performed well on social media. DJ and producer Alan Walker praised Manel publicly for his cover of one of his songs. After success with his first single, Candle, released in 2016, his second single, Do It For Your Lover, has become a radio hit. Earlier this year he won the Spanish national selection for the Eurovision Song Contest and will represent Spain in Kyiv.</p>",
+			"country": {
+				"code": "ES",
+				"name": "Spain"
+			}
+		},
+		{
+			"order": 17,
+			"title": "Grab The Moment",
+			"picture": "https://eurovision.tv/apex/image/b19b219985658bcde0a1ec167f1a9524?p=participant",
+			"video": "https://www.youtube.com/embed/IPp37uz8vUs",
+			"artist": {
+				"firstName": "Joakim",
+				"name": "With Steen",
+				"nickname": "JOWST"
+			},
+			"biography": "<p>Joakim With Steen is the name behind JOWST. At 15 he developed an interest in punk rock and songwriting. After finishing music producer school, where he also worked as a teacher, Joakim started working as a sound engineer and producer. The project Making a Hit was his first artistic concept of JOWST. In a closed Facebook group, he let his friends provide feedback on the whole process of writing and producing Grab the Moment. He creates music with the aim of pushing himself, such as taking part in the Eurovision Song Contest.</p><p>Vocals on Grab the Moment are by Aleksander Walmann. He is from a musical family and took interest in music at a young age. In 2012, he took part in the Norwegian edition of The Voice, where he reached the finals. He has supported famous Norwegian artists like Sivert Høyem and Sondre Lerche, and lent his voice to the animated film Rio 2 (Roberto). He is preparing new releases with his own music as well as working for other Norwegian artists. His focus now though is on the 2017 Eurovision Song Contest.</p>",
+			"country": {
+				"code": "NO",
+				"name": "Norway"
+			}
+		},
+		{
+			"order": 18,
+			"title": "Never Give Up On You",
+			"picture": "https://eurovision.tv/apex/image/f12e56d5ddfbd648a65e53ae0a48cc90?p=participant",
+			"video": "https://www.youtube.com/embed/ac5xNUfzCY4",
+			"artist": {
+				"firstName": "Lucie",
+				"name": "Jones",
+				"nickname": "Lucie Jones"
+			},
+			"biography": "<p>Lucie Jones is a singer and actress from South Wales and has a wealth of stage experience, beginning with The X Factor in 2009 where she was a finalist. From there she embarked on a highly successful musical theatre career. Lucie's credits include playing Cosette in Les Miserables, Kelly in The Prodigals, Meatloaf in the We Will Rock You World Arena Tour, Victoria in American Psycho The Musical and Molly Jensen in Ghost, The Musical.</p><p>Lucie won the DIMF Best Actress in a Musical Award for her performance as Elle Woods in Legally Blonde the Musical. She is currently playing Maureen Johnson in the 20th anniversary tour of RENT! The Musical. An avid sports fan, Lucie has sung the Welsh national anthem at sporting events in The Millennium Stadium and Twickenham Stadium and God Save the Queen at Wembley Stadium. Lucie is excited and honoured to be representing the UK in the Eurovision Song Contest in Kyiv.</p>",
+			"country": {
+				"code": "GB",
+				"name": "United Kingdom"
+			}
+		},
+		{
+			"order": 19,
+			"title": "Gravity",
+			"picture": "https://eurovision.tv/apex/image/110e6914c4c451db5f0890aa53138c06?p=participant",
+			"video": "https://www.youtube.com/embed/bxfQn7riJxo",
+			"artist": {
+				"firstName": "Hovig",
+				"name": "Demirjian",
+				"nickname": "Hovig"
+			},
+			"biography": "<p>Hovig Demirjian is a singer songwriter of Armenian origin, born in Cyprus in 1989. At the age of 16, Hovig started performing in various clubs, getting noticed in the artistic community in Cyprus. After dropping out of Marketing Studies, Hovig enrolled in a jazz music course at the European University of Nicosia.</p><p>In 2009 Hovig participated in The X Factor Greece. In 2010 and 2015 Hovig tried to represent his country in the Eurovision Song Contest by competing in the national selection, reaching the final on both occasions. This year, broadcaster CyBC internally selected Hovig for the 2017 competition with the song Gravity.</p>",
+			"country": {
+				"code": "CY",
+				"name": "Cyprus"
+			}
+		},
+		{
+			"order": 20,
+			"title": "Yodel It!",
+			"picture": "https://eurovision.tv/apex/image/3f2a108e9eca8d7b5166000a45387437?p=participant",
+			"video": "https://www.youtube.com/embed/TtJw_CLQCUw",
+			"artist": {
+				"firstName": "",
+				"name": "",
+				"nickname": "Ilinca ft. Alex Florea"
+			},
+			"biography": "<p>Ilinca comes from a family of musicians and she has been studying music since she was seven years old. She started with festivals throughout Romania and results gradually started to appear. At 14 she took part in X Factor as a member of a four-piece girl band, reaching the live shows. At 16 she took part in The Voice of Romania, where she reached the semifinals along with Loredana, and she continued to take part with her coach in the national tour and to collaborate with several cultural institutions in the country.</p><p>Alex Florea started singing since he was 16, when Mihai Traistariu, who represented Romania in the 2006 Eurovision Song Contest, sent him to a music school and then to festivals. Alex went to the Popular Arts School, under the guidance of Theodor Radulescu. At present, he is studying for a masters degree at the Faculty of Fine Arts, more specifically, in the Theatre Section. In 2014, he participated in The X Factor along with his brother, and he also achieved success in The Voice of Romania in 2015.</p>",
+			"country": {
+				"code": "RO",
+				"name": "Romania"
+			}
+		},
+		{
+			"order": 21,
+			"title": "Perfect Life",
+			"picture": "https://eurovision.tv/apex/image/8a4c8bbcf87b38244da608a3ff268ac0?p=participant",
+			"video": "https://www.youtube.com/embed/y7pUKkSrXFY",
+			"artist": {
+				"firstName": "Isabella",
+				"name": "Levina Lueen",
+				"nickname": "Levina"
+			},
+			"biography": "<p>Germany’s entry for the Eurovision Song Contest 2017 is the perfect liaison of Nordic metropolitan charm, a husky voice of international class, and a song that will delight Europe. Levina easily eclipsed 2,000 aspiring acts at the German preliminary show and now deservedly represents Germany in the Eurovision Song Contest with the song Perfect Life.</p><p>Despite her natural charisma, the 25-year-old Isabella 'Levina' Lueen is a professional. Bestowed with enormous talent, she won the acclaimed German regional, federal, and national music competition Jugend Musiziert at the age of nine, wrote her own songs at twelve, studied vocals and composition in London, and was promptly awarded Best Vocal Performer. Levina lives and works in Berlin and London.</p><p>Perfect Life was penned by US platinum songwriter Lindy Robbins and her team, and encourages the notion of a 'perfect life' allowing mistakes in pursuit of our dreams. Perfect Life is a contagious, border-crossing pop hymn for a modern Europe.</p>",
+			"country": {
+				"code": "DE",
+				"name": "Germany"
+			}
+		},
+		{
+			"order": 22,
+			"title": "Time",
+			"picture": "https://eurovision.tv/apex/image/df6a7cffe2d2850a7ab158a49fa5f53d?p=participant",
+			"video": "https://www.youtube.com/embed/VKCIsDLd_Vo",
+			"artist": {
+				"firstName": "",
+				"name": "",
+				"nickname": "O.Torvald"
+			},
+			"biography": "<p>O.Torvald was established in Poltava, Ukraine in 2005. In 2006 the band moved to Kyiv where they began performing live. Zhenia Halych is the band's front man and and to date, the group have released five albums. The band also have a large audience of fans. In 2015 they toured Ukraine and Europe and last year released their latest album; #OurPeopleAreEverywhere which was produced by Kyrylo Matiushenko from Belarus.</p><p>In autumn 2016, O.Torvald toured extensively throughout Ukraine and performed one of their biggest concerts to date in the Stereo Plaza in Kyiv. In February 2017 they won the Ukrainian national selection for the Eurovision Song Contest and will represent the country in Kyiv in May.</p>",
+			"country": {
+				"code": "UA",
+				"name": "Ukraine"
+			}
+		},
+		{
+			"order": 23,
+			"title": "City Lights",
+			"picture": "https://eurovision.tv/apex/image/0c5eca5ff0d72885f832b619b19bf784?p=participant",
+			"video": "https://www.youtube.com/embed/xbomdE81_mA",
+			"artist": {
+				"firstName": "Ellie",
+				"name": "Delvaux",
+				"nickname": "Blanche"
+			},
+			"biography": "<p>Blanche (real name Ellie Delvaux) captured the attention of Pierre Dumoulin, a Belgian singer/songwriter, who began writing songs with her voice in mind before they even met. When put in touch, the two artists immediately connected and their teams began to collaborate. The duo paired up with producer Tim Bran, known for his work with London Grammar, Aurora, Birdy, among others. The final result was City Lights, an adventurous yet accessible pop track, set with a haunting chorus. With a strong yet fragile voice, the song is modern and contemporary, forming an exciting and striking debut single.</p>",
+			"country": {
+				"code": "BE",
+				"name": "Belgium"
+			}
+		},
+		{
+			"order": 24,
+			"title": "I Can't Go On",
+			"picture": "https://eurovision.tv/apex/image/73db696a9fb1a307194ee3f1214417d5?p=participant",
+			"video": "https://www.youtube.com/embed/1jSrBdN4b5c",
+			"artist": {
+				"firstName": "Robin",
+				"name": "Bengtsson",
+				"nickname": "Robin Bengtsson"
+			},
+			"biography": "<p>At the age of 13, Robin started playing the guitar, after having played trumpet for years. In 2008, at 17, he entered Swedish Idol and literally blew the judges away with his soulful and mature voice. Everyone agreed that there was something very special about his voice and personality! Since then he has toured with his band, written music, released a couple of singles and not least gained lots of experience.</p><p>In 2016 Robin achieved huge success with Constellation Prize through Melodifestivalen, placing 5th, selling double platinum and gaining massive airplay. This year he participated once again in the Swedish national selection TV shows with the song I Can’t Go On, which took him directly to the final and now to the ultimate goal: Winning the whole thing.</p>",
+			"country": {
+				"code": "SE",
+				"name": "Sweden"
+			}
+		},
+		{
+			"order": 25,
+			"title": "Beautiful Mess",
+			"picture": "https://eurovision.tv/apex/image/c7ce0d4e4e6c1a9760a01c09cd9b1311?p=participant",
+			"video": "https://www.youtube.com/embed/yTFuXOEbJTY",
+			"artist": {
+				"firstName": "Kristian",
+				"name": "Kostov",
+				"nickname": "Kristian Kostov"
+			},
+			"biography": "<p>Kristian Kostov started his musical journey at the age of 6. After going solo when he was 11 years old, he took part in many competitions, but the first big boost for Kristian’s career was his 2014 appearance on Russia’s The Voice Kids, where he was mentored by for Eurovision Song Contest winner Dima Bilan.</p><p>In August 2015, Kristian left Russia to take part in Season Four of the X Factor Bulgaria, where he finished as a runner-up. His Bulgarian debut, Ne si za men, was released by his record label Virginia Records, topping the official national airplay chart for two weeks. It was followed by an English version, You Got Me Girl. Kristian's next single, Vdigam Level, was a number one hit for 14 weeks and has now received almost six million views on YouTube.</p><p>With roots in Europe and Asia, a career that stems from successes in two nations, and skills to perform in many languages, Kristian is proud and humbled to be selected by Bulgarian National Television to represent Bulgaria at the Eurovision Song Contest with the song Beautiful Mess.</p>",
+			"country": {
+				"code": "BG",
+				"name": "Bulgaria"
+			}
+		},
+		{
+			"order": 26,
+			"title": "Requiem",
+			"picture": "https://eurovision.tv/apex/image/db4069f952667780686802d428696c0b?p=participant",
+			"video": "https://www.youtube.com/embed/Koi36aeRv7I",
+			"artist": {
+				"firstName": "Alexandra",
+				"name": "Macquet",
+				"nickname": "Alma"
+			},
+			"biography": "<p>Digital platforms named her one of the most promising emerging artists of 2017. Alma is a stellar, talented young woman, pianist, singer and songwriter with a unique and ethereal voice. She presents her new single Requiem which reveals her quest for never ending love, with poetic and dreamlike lyrics.</p> <p>It was when Alma started to live abroad that she wrote her first songs while pursuing her studies. After getting her business school degree, she devoted herself to her lifelong passion: music. She moved to Paris and embarked on \"the most beautiful journey of all\", that's when she met Nazim (Khaled), the talented songwriter who also wrote J'ai Cherché for Amir last year, with whom she wrote most of the songs on her first album which will be released on 5th May 2017.</p> <p>Alma sings about life, her life, our life. While she deals with universal themes such as love and death, Alma brings her own very personal approach. She performs a deft balancing act, singing on the edge between two worlds, reconciling the world of dreams with stark reality.</p>",
+			"country": {
+				"code": "FR",
+				"name": "France"
+			}
+		}
+	]
+}
