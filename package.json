@@ -5,10 +5,10 @@
   "author": "Sam Verschueren",
   "private": true,
   "scripts": {
+    "postversion": "node ./scripts/update-sw",
     "clean": "ionic-app-scripts clean",
     "build": "npm run ionic:build",
     "ionic:build": "ionic-app-scripts build",
-    "preionic:build": "node ./scripts/update-sw",
     "ionic:serve": "ionic-app-scripts serve",
     "deploy": "npm run build -- --prod && firebase deploy"
   },
