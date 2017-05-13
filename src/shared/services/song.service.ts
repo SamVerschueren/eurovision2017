@@ -17,12 +17,14 @@ export class SongService {
 	// List of all the songs in the correct order
 	songs$ = Observable.combineLatest(
 		this.af.database.list('/songs').map(songs => [...songs]),
-		this.af.database.list('/votes'),
+		this.af.database.object('/votes'),
 		this.authService.user$,
 		(songs: Song[], votes: any, user) => {
 			for (const song of songs) {
-				if (votes[song.$key]) {
-					song.userScore = votes[song.$key][user.uid];
+				const songVotes = votes[song.$key];
+
+				if (songVotes) {
+					song.userScore = songVotes[user.uid];
 				}
 			}
 
