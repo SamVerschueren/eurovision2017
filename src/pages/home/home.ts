@@ -40,7 +40,7 @@ export class HomePage{
 		const toast = this.toastController.create({
 			message: `${score} ${points} for ${song.country.name}`,
 			duration: 3000,
-			position: 'bottom'
+			position: 'top'
 		});
 
 		toast.present();
