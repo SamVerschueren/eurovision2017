@@ -21,11 +21,8 @@ export class SongService {
 		this.authService.user$,
 		(songs: Song[], votes: any, user) => {
 			for (const song of songs) {
-				const songVotes = votes[song.$key];
-
-				if (songVotes) {
-					song.userScore = songVotes[user.uid];
-				}
+				const songVotes = votes[song.$key] || {};
+				song.userScore = songVotes[user.uid];
 			}
 
 			return songs;
