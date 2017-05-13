@@ -13,4 +13,5 @@ export interface Song extends Ref {
 	video: string;
 	picture: string;
 	score?: number;
+	userScore?: number;
 }

@@ -1,7 +1,12 @@
-<ion-list>
+<ion-list *ngIf="lineup">
 	<line-up-item
 		*ngFor="let song of lineup"
-		[song]="song"
+		[order]="song.order"
+		[title]="song.title"
+		[picture]="song.picture"
+		[userScore]="song.userScore"
+		[country]="song.country"
+		[artist]="song.artist"
 		(select)="select.emit(song)">
 	</line-up-item>
 </ion-list>

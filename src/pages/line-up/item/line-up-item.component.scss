@@ -12,4 +12,11 @@ line-up-item {
 			bottom: 5px;
 		}
 	}
+
+	ion-card-content {
+		ion-badge {
+			float: right;
+			margin-top: 5px;
+		}
+	}
 }

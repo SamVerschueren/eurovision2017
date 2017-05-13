@@ -10,7 +10,10 @@
 	<youtube-video [src]="song.video"></youtube-video>
 
 	<section padding>
-		<h1>{{ song.title }}</h1>
+		<h1>
+			<ion-badge *ngIf="song.userScore">{{ song.userScore }}</ion-badge>
+			{{ song.title }}
+		</h1>
 
 		<div [innerHTML]="song.biography"></div>
 	</section>

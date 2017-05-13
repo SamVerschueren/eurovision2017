@@ -2,6 +2,7 @@ import { Injectable } from '@angular/core';
 import { AngularFire } from 'angularfire2';
 import { Observable } from 'rxjs/Observable';
 
+import { AuthService } from './auth.service';
 import { CacheService } from './cache.service';
 import { Song } from '../entities';
 
@@ -14,10 +15,23 @@ export class SongService {
 		.refCount();
 
 	// List of all the songs in the correct order
-	songs$ = this.af.database.list('/songs')
-		.map((result: Song[]) => result.sort((a, b) => a.order - b.order))
-		.publishReplay(1)
-		.refCount();
+	songs$ = Observable.combineLatest(
+		this.af.database.list('/songs').map(songs => [...songs]),
+		this.af.database.list('/votes'),
+		this.authService.user$,
+		(songs: Song[], votes: any, user) => {
+			for (const song of songs) {
+				if (votes[song.$key]) {
+					song.userScore = votes[song.$key][user.uid];
+				}
+			}
+
+			return songs;
+		}
+	)
+	.map((result: Song[]) => result.sort((a, b) => a.order - b.order))
+	.publishReplay(1)
+	.refCount();
 
 	// The song that is currently playing
 	playing$ = Observable.combineLatest(
@@ -27,6 +41,7 @@ export class SongService {
 	);
 
 	constructor(
+		private authService: AuthService,
 		private af: AngularFire,
 		private cacheService: CacheService
 	) {

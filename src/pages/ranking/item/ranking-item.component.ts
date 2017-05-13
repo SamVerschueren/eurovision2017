@@ -12,5 +12,6 @@ export class RankingItemComponent {
 	@Input() artist: string;
 	@Input() country: string;
 	@Input() score: number;
+	@Input() userScore: number;
 	@Output() select = new EventEmitter();
 }
