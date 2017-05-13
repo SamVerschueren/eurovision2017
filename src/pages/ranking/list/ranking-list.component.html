@@ -1,3 +1,5 @@
+<ion-spinner *ngIf="songs === null" color="primary"></ion-spinner>
+
 <ion-list>
 	<ranking-item
 		*ngFor="let song of songs; index as i"
