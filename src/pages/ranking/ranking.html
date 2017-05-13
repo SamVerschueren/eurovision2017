@@ -8,6 +8,7 @@
 
 <ion-content>
 	<ranking-list
-		[songs]="ranking$ | async">
+		[songs]="ranking$ | async"
+		(select)="showDetails($event)">
 	</ranking-list>
 </ion-content>
